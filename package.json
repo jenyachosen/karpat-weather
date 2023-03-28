@@ -1,0 +1,22 @@
+{
+  "name": "zakarpat-weather",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenya Korolenko",
+  "license": "ISC",
+  "homepage": "https://zakarpatweather.com.ua",
+  "repository": {
+    "type": "git",
+    "url": "https://zakarpatweather.com.ua"
+  },
+  "bugs": {
+    "url": "https://zakarpatweather.com.ua",
+    "email": "jeyakoroll@gmail.com"
+  }
+}
