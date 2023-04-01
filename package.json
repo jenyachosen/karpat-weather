@@ -15,8 +15,16 @@
     "type": "git",
     "url": "https://zakarpatweather.com.ua"
   },
+  "type": "module",
   "bugs": {
     "url": "https://zakarpatweather.com.ua",
     "email": "jeyakoroll@gmail.com"
-  }
+  },
+  "dependencies": {
+    "axios": "^1.3.4",
+    "chalk": "^5.2.0",
+    "dedent-js": "^1.0.1",
+    "yargs": "^17.7.1"
+  },
+  "peerDependenciesMeta": {}
 }
